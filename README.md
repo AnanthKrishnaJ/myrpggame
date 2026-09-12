@@ -39,7 +39,7 @@
 
 ## Basic Details
 
-### Team Name: My RPG Game
+### Team Name: Kitasan Black
 
 ### Team Members
 
