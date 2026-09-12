@@ -1,7 +1,41 @@
-````markdown
 # My RPG Game 🎮
 
 > An adventure built to explore, fight, discover, and have fun.
+
+[🎮 Play My RPG Game](https://myrpggame-rejivjtvj-ananthsus.vercel.app/) • [📦 GitHub Repository](https://github.com/AnanthKrishnaJ/myrpggame) • [🎥 Demo Video](https://drive.google.com/file/d/1jE9-zapwoMS7HT1SM1ApQ1-PD2VN4Z4O/view?usp=sharing)
+
+---
+
+## 📑 Navigation
+
+- [Basic Details](#basic-details)
+- [Project Description](#project-description)
+- [The Problem](#the-problem-that-doesnt-exist)
+- [The Solution](#the-solution-that-nobody-asked-for)
+- [Technical Details](#technical-details)
+- [Implementation](#implementation)
+- [How the Game Works](#how-the-game-works)
+- [Gameplay](#gameplay)
+- [Player Progression](#player-progression)
+- [Combat](#combat)
+- [Characters and Enemies](#characters-and-enemies)
+- [Game World](#game-world)
+- [Game Controls](#game-controls)
+- [Project Documentation](#project-documentation)
+- [Game Systems](#game-systems)
+- [Rendering](#rendering)
+- [User Interface](#user-interface)
+- [Screenshots](#screenshots)
+- [Diagrams](#diagrams)
+- [Project Demo](#project-demo)
+- [Live Demo](#live-demo)
+- [GitHub Repository](#github-repository)
+- [Additional Demos](#additional-demos)
+- [Team Contributions](#team-contributions)
+- [TinkerHub Useless Projects 3.0](#tinkerhub-useless-projects-30)
+- [Project Information](#project-information)
+
+---
 
 ## Basic Details
 
@@ -113,26 +147,26 @@ The React interface provides the controls and information panels, while the rend
 
 ### Installation
 
-Prerequisites:
+#### Prerequisites
 
 - Node.js
 - npm
 - Git
 - A modern web browser
 
-Clone the repository:
+#### Clone the Repository
 
 ```bash
 git clone https://github.com/AnanthKrishnaJ/myrpggame.git
-````
+```
 
-Navigate into the project:
+#### Navigate into the Project
 
 ```bash
 cd myrpggame
 ```
 
-Install dependencies:
+#### Install Dependencies
 
 ```bash
 npm install
@@ -195,14 +229,14 @@ Gameplay is built around exploring the world and interacting with its systems.
 
 The player can:
 
-* Move through the game world
-* Explore different areas
-* Interact with characters and objects
-* Encounter enemies
-* Take part in combat
-* Complete gameplay objectives
-* Progress through the game
-* Discover new areas and experiences
+- Move through the game world
+- Explore different areas
+- Interact with characters and objects
+- Encounter enemies
+- Take part in combat
+- Complete gameplay objectives
+- Progress through the game
+- Discover new areas and experiences
 
 ---
 
@@ -212,12 +246,12 @@ The RPG includes progression through gameplay.
 
 Progression can include:
 
-* Character development
-* Improved abilities
-* New items or equipment
-* New encounters
-* Access to new areas
-* Increasing challenges
+- Character development
+- Improved abilities
+- New items or equipment
+- New encounters
+- Access to new areas
+- Increasing challenges
 
 ---
 
@@ -247,11 +281,11 @@ The RPG takes place inside an interactive game world.
 
 The environment provides the setting for:
 
-* Exploration
-* Encounters
-* Characters
-* Challenges
-* Player progression
+- Exploration
+- Encounters
+- Characters
+- Challenges
+- Player progression
 
 ---
 
@@ -313,13 +347,13 @@ The game systems manage the current state and progression of the RPG.
 
 They handle areas such as:
 
-* Player state
-* Movement
-* Interactions
-* Enemies
-* Combat
-* World state
-* Game progression
+- Player state
+- Movement
+- Interactions
+- Enemies
+- Combat
+- World state
+- Game progression
 
 ---
 
@@ -329,12 +363,12 @@ The rendering system displays the game world and its interactive elements.
 
 It is responsible for displaying:
 
-* Game environment
-* Player
-* Characters
-* Enemies
-* Objects
-* Gameplay state
+- Game environment
+- Player
+- Characters
+- Enemies
+- Objects
+- Gameplay state
 
 ---
 
@@ -346,11 +380,11 @@ The main focus is allowing the player to interact with the RPG while keeping imp
 
 The interface provides:
 
-* Game controls
-* Game information
-* Player information
-* Interaction feedback
-* Gameplay status
+- Game controls
+- Game information
+- Player information
+- Interaction feedback
+- Gameplay status
 
 ---
 
@@ -358,30 +392,34 @@ The interface provides:
 
 ## Screenshot 1 — Main Screen
 
-![Main Screen](https://drive.google.com/uc?export=view\&id=1KKbWNl3K638yJXOoJ__xu_xMKKsKV0ld)
+![Main Screen](https://drive.google.com/uc?export=view&id=1KKbWNl3K638yJXOoJ__xu_xMKKsKV0ld)
 
 The main screen of My RPG Game, showing the overall game interface and world.
 
-Screenshot link:
-[https://drive.google.com/file/d/1KKbWNl3K638yJXOoJ__xu_xMKKsKV0ld/view?usp=sharing](https://drive.google.com/file/d/1KKbWNl3K638yJXOoJ__xu_xMKKsKV0ld/view?usp=sharing)
+**Screenshot Link:**  
+https://drive.google.com/file/d/1KKbWNl3K638yJXOoJ__xu_xMKKsKV0ld/view?usp=sharing
+
+---
 
 ## Screenshot 2 — Main Hero Interface
 
-![Main Hero Interface](https://drive.google.com/uc?export=view\&id=1lJqyLSHfPf50s_xkDPcdux384kOn5nCv)
+![Main Hero Interface](https://drive.google.com/uc?export=view&id=1lJqyLSHfPf50s_xkDPcdux384kOn5nCv)
 
 The main hero interface showing the player character and the core gameplay interface.
 
-Screenshot link:
-[https://drive.google.com/file/d/1lJqyLSHfPf50s_xkDPcdux384kOn5nCv/view?usp=sharing](https://drive.google.com/file/d/1lJqyLSHfPf50s_xkDPcdux384kOn5nCv/view?usp=sharing)
+**Screenshot Link:**  
+https://drive.google.com/file/d/1lJqyLSHfPf50s_xkDPcdux384kOn5nCv/view?usp=sharing
+
+---
 
 ## Screenshot 3 — Fight
 
-![Fight](https://drive.google.com/uc?export=view\&id=1lJqyLSHfPf50s_xkDPcdux384kOn5nCv)
+![Fight](https://drive.google.com/uc?export=view&id=1lJqyLSHfPf50s_xkDPcdux384kOn5nCv)
 
 A fight scene showing the RPG's combat gameplay.
 
-Screenshot link:
-[https://drive.google.com/file/d/1lJqyLSHfPf50s_xkDPcdux384kOn5nCv/view?usp=sharing](https://drive.google.com/file/d/1lJqyLSHfPf50s_xkDPcdux384kOn5nCv/view?usp=sharing)
+**Screenshot Link:**  
+https://drive.google.com/file/d/1lJqyLSHfPf50s_xkDPcdux384kOn5nCv/view?usp=sharing
 
 ---
 
@@ -409,11 +447,14 @@ The diagram shows the basic relationship between exploration, interaction, encou
 
 ---
 
-## Project Demo
+# Project Demo
 
-# Video
+## 🎥 Video Demo
 
-[https://drive.google.com/file/d/1jE9-zapwoMS7HT1SM1ApQ1-PD2VN4Z4O/view?usp=sharing](https://drive.google.com/file/d/1jE9-zapwoMS7HT1SM1ApQ1-PD2VN4Z4O/view?usp=sharing)
+[Watch the My RPG Game Demo](https://drive.google.com/file/d/1jE9-zapwoMS7HT1SM1ApQ1-PD2VN4Z4O/view?usp=sharing)
+
+**Demo Link:**  
+https://drive.google.com/file/d/1jE9-zapwoMS7HT1SM1ApQ1-PD2VN4Z4O/view?usp=sharing
 
 The demo video demonstrates My RPG Game, including the game world, player interface, exploration, interactions, and combat.
 
@@ -421,31 +462,43 @@ The demo video demonstrates My RPG Game, including the game world, player interf
 
 # Live Demo
 
-## Vercel Deployment
+## 🎮 Play the Game
 
-Vercel Project:
+**Live Application:**  
+https://myrpggame-rejivjtvj-ananthsus.vercel.app/
 
-[https://vercel.com/ananthsus/myrpggame](https://vercel.com/ananthsus/myrpggame)
-
-Live Application:
-
-[https://myrpggame-rejivjtvj-ananthsus.vercel.app/](https://myrpggame-rejivjtvj-ananthsus.vercel.app/)
+[▶️ Play My RPG Game](https://myrpggame-rejivjtvj-ananthsus.vercel.app/)
 
 The application is deployed using Vercel and can be played directly in a modern web browser.
 
 ---
 
+## Vercel Deployment
+
+**Vercel Project:**  
+https://vercel.com/ananthsus/myrpggame
+
+**Live Application:**  
+https://myrpggame-rejivjtvj-ananthsus.vercel.app/
+
+---
+
 # GitHub Repository
 
-[https://github.com/AnanthKrishnaJ/myrpggame](https://github.com/AnanthKrishnaJ/myrpggame)
+**Source Code:**  
+https://github.com/AnanthKrishnaJ/myrpggame
 
-[View the My RPG Game source code](https://github.com/AnanthKrishnaJ/myrpggame)
+[📦 View the My RPG Game Source Code](https://github.com/AnanthKrishnaJ/myrpggame)
+
+The GitHub repository contains the complete source code for the project.
 
 ---
 
 # Additional Demos
 
 The main demo video provides an overview of the gameplay, interface, exploration, and combat systems.
+
+[🎥 Watch Demo Video](https://drive.google.com/file/d/1jE9-zapwoMS7HT1SM1ApQ1-PD2VN4Z4O/view?usp=sharing)
 
 ---
 
@@ -457,25 +510,25 @@ As the sole member of the team, Ananth Krishna J was responsible for the complet
 
 Contributions include:
 
-* Project concept
-* Project design
-* Game development
-* Gameplay systems
-* Player systems
-* Player progression
-* Interaction systems
-* Combat systems
-* Enemy systems
-* World interaction
-* Game engine
-* Game rendering
-* User interface
-* User interaction
-* Testing
-* Debugging
-* GitHub repository management
-* Vercel deployment
-* Project documentation
+- Project concept
+- Project design
+- Game development
+- Gameplay systems
+- Player systems
+- Player progression
+- Interaction systems
+- Combat systems
+- Enemy systems
+- World interaction
+- Game engine
+- Game rendering
+- User interface
+- User interaction
+- Testing
+- Debugging
+- GitHub repository management
+- Vercel deployment
+- Project documentation
 
 ---
 
@@ -493,21 +546,36 @@ It is an experiment in game development, creativity, interaction, and making som
 
 # Project Information
 
-| Detail       | Information                    |
-| ------------ | ------------------------------ |
-| Project Name | My RPG Game                    |
-| Team Name    | My RPG Game                    |
-| Team Size    | 1                              |
-| Team Lead    | Ananth Krishna J               |
-| College      | SNM IMT                        |
-| Event        | TinkerHub Useless Projects 3.0 |
-| Project Type | Software / Game                |
-| Framework    | React                          |
-| Language     | TypeScript                     |
-| Build Tool   | Vite                           |
-| Rendering    | HTML5 Canvas                   |
-| Repository   | AnanthKrishnaJ/myrpggame       |
-| Deployment   | Vercel                         |
+| Detail | Information |
+|---|---|
+| Project Name | My RPG Game |
+| Team Name | My RPG Game |
+| Team Size | 1 |
+| Team Lead | Ananth Krishna J |
+| College | SNM IMT |
+| Event | TinkerHub Useless Projects 3.0 |
+| Project Type | Software / Game |
+| Framework | React |
+| Language | TypeScript |
+| Build Tool | Vite |
+| Rendering | HTML5 Canvas |
+| Repository | AnanthKrishnaJ/myrpggame |
+| Deployment | Vercel |
+| Live Demo | https://myrpggame-rejivjtvj-ananthsus.vercel.app/ |
+
+---
+
+## 🔗 Quick Links
+
+| Resource | Link |
+|---|---|
+| 🎮 Live Game | https://myrpggame-rejivjtvj-ananthsus.vercel.app/ |
+| 📦 GitHub | https://github.com/AnanthKrishnaJ/myrpggame |
+| 🚀 Vercel Project | https://vercel.com/ananthsus/myrpggame |
+| 🎥 Demo Video | https://drive.google.com/file/d/1jE9-zapwoMS7HT1SM1ApQ1-PD2VN4Z4O/view?usp=sharing |
+| 🖼️ Screenshot 1 | https://drive.google.com/file/d/1KKbWNl3K638yJXOoJ__xu_xMKKsKV0ld/view?usp=sharing |
+| 🖼️ Screenshot 2 | https://drive.google.com/file/d/1lJqyLSHfPf50s_xkDPcdux384kOn5nCv/view?usp=sharing |
+| 🖼️ Screenshot 3 | https://drive.google.com/file/d/1lJqyLSHfPf50s_xkDPcdux384kOn5nCv/view?usp=sharing |
 
 ---
 
@@ -516,6 +584,3 @@ Made with ❤️ at TinkerHub Useless Projects
 ![TinkerHub](https://img.shields.io/badge/TinkerHub-24-000000)
 
 ![Useless Projects](https://img.shields.io/badge/Useless%20Projects-3.0-000000)
-
-```
-```
